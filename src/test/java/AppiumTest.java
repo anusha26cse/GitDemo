@@ -13,7 +13,7 @@ System.out.println("NativeAppAndroid");
     public void IOSApps(){
         System.out.println("IOSApps");
     }
-    @Test(groups={"Smoke"})
+    @Test
     public void ploan()
     {
         System.out.println("good");

@@ -1,3 +1,4 @@
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class RestAPITest {
@@ -8,6 +9,13 @@ public class RestAPITest {
         System.out.println("postJira");
         System.out.println("preJira");
         System.out.println("git demo");
+    }
+    @Test
+    public void Demoabc()
+    {
+        System.out.println("hello");//automation
+        Assert.assertFalse(true);
+        System.out.println("demoabc");
     }
     @Test
     public void deleteTwitter(){
