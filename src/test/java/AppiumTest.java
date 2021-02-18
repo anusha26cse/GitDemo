@@ -13,4 +13,16 @@ System.out.println("NativeAppAndroid");
     public void IOSApps(){
         System.out.println("IOSApps");
     }
+    @Test(groups={"Smoke"})
+    public void ploan()
+    {
+        System.out.println("good");
+    }
+
+    @Test
+    public void prerequiste()
+    {
+        System.out.println("I will execute first");
+    }
+
 }

@@ -1,3 +1,4 @@
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class SeleniumJava {
@@ -14,6 +15,19 @@ public class SeleniumJava {
     {
 System.out.println("Elements Ui");
     }
+    @Test
+    public void lastexecution()
+    {
+        System.out.println("I will execute last");
+
+    }
+    @Test
+    public void Demo()
+    {
+        System.out.println("hello");//automation
+        Assert.assertTrue(false);
+    }
+
 
 
 

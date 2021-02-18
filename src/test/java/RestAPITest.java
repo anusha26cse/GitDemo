@@ -13,4 +13,16 @@ public class RestAPITest {
     public void deleteTwitter(){
         System.out.println("delete twitter");
     }
+    @Test
+
+    public void afSyite()
+    {
+        System.out.println("I am the no 1 from last ");
+    }
+    @Test
+    public void SecondTest()
+    {
+        System.out.println("bye");
+    }
+
 }
