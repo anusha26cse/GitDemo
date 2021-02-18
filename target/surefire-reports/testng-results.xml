@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-08T16:26:52 IST" name="All Test Suite" finished-at="2021-02-08T16:26:52 IST" duration-ms="200">
+    <groups>
+    </groups>
+    <test started-at="2021-02-08T16:26:52 IST" name="C:/Users/anush/IdeaProjects/MavenExample" finished-at="2021-02-08T16:26:52 IST" duration-ms="200">
+      <class name="AppiumTest">
+        <test-method signature="IOSApps()[pri:0, instance:AppiumTest@8909f18]" started-at="2021-02-08T16:26:52 IST" name="IOSApps" finished-at="2021-02-08T16:26:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:AppiumTest@8909f18]" started-at="2021-02-08T16:26:52 IST" name="NativeAppAndroid" finished-at="2021-02-08T16:26:52 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- AppiumTest -->
+      <class name="SeleniumJava">
+        <test-method signature="BrowersAutomation()[pri:0, instance:SeleniumJava@78047b92]" started-at="2021-02-08T16:26:52 IST" name="BrowersAutomation" finished-at="2021-02-08T16:26:52 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowersAutomation -->
+        <test-method signature="elementsUi()[pri:0, instance:SeleniumJava@78047b92]" started-at="2021-02-08T16:26:52 IST" name="elementsUi" finished-at="2021-02-08T16:26:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+      </class> <!-- SeleniumJava -->
+      <class name="RestAPITest">
+        <test-method signature="posJira()[pri:0, instance:RestAPITest@79ca92b9]" started-at="2021-02-08T16:26:52 IST" name="posJira" finished-at="2021-02-08T16:26:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posJira -->
+        <test-method signature="deleteTwitter()[pri:0, instance:RestAPITest@79ca92b9]" started-at="2021-02-08T16:26:52 IST" name="deleteTwitter" finished-at="2021-02-08T16:26:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- RestAPITest -->
+    </test> <!-- C:/Users/anush/IdeaProjects/MavenExample -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
