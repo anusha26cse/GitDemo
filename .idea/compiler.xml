@@ -7,7 +7,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="MavenExample" />
+<<<<<<< HEAD
         <module name="GitStuff" />
+=======
+        <module name="GitDemo" />
+>>>>>>> 99be1189fd173e70eccf0da65d32eb63ab49ab56
       </profile>
     </annotationProcessing>
   </component>
